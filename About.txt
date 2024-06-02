@@ -1,0 +1,13 @@
+Name: Ritchey&Contributers TLD List
+Implementation: 1
+Version: WIP0.0
+Long Identifier: Ritchey&Contributers TLD List i1 vWIP0.0
+Short Identifier: R&CTLi1vWIP0.0
+Description: A list of TLDs.
+History:
+ - Project started June 1, 2024.
+ - Version WIP0.0 completed June 1, 2024.
+Authors: James Daniel Marrs Ritchey
+Licensing: This project is provided under the terms of the Ritchey Permissive License v16.
+Notes:
+ - Version numbers starting with "vWIP" indicate a work in progress, not a complete release.
